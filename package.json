@@ -1,0 +1,20 @@
+{
+  "name": "noje.js-day2-(curd)",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Sneha",
+  "license": "ISC",
+  "description": "CURD Apllication",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
